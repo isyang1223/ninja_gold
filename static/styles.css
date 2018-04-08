@@ -1,0 +1,12 @@
+.block{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+}
+#activity{
+    border-style: solid;
+    height: 100px;
+    width: 300px;
+    overflow: scroll;
+}
